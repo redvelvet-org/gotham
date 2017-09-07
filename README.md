@@ -5,6 +5,6 @@ Land for all services
 How?
 
 - Clone
-- Run `dc up`
+- Run `docker-compose up`
 
 Keep this running
